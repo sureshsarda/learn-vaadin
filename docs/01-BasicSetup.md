@@ -21,14 +21,14 @@ Contents of this tutorial
 
 ### Introduction
     
-    Vaadin is a web development framework used to develop complex web applications. With Vaadin you can develop web applications with Java (or any JVM based language). You don't have to learn any complicated web technology to get going. Developing apps in Vaadin is like developing apps in SWT. Vaadin will take care of everything from converting your code to server side code and creating the UI components when required.
+Vaadin is a web development framework used to develop complex web applications. With Vaadin you can develop web applications with Java (or any JVM based language). You don't have to learn any complicated web technology to get going. Developing apps in Vaadin is like developing apps in SWT. Vaadin will take care of everything from converting your code to server side code and creating the UI components when required.
 
 #### Where to (and not to) use Vaadin
-     Vaadin is suitable for applications which have lot of forms and data content and have lot of user interaction. Apps having a very complicated structure and rich layout. With Vaadin these user interactions and navigations can be simplified as you are not using HTML anymore.
+Vaadin is suitable for applications which have lot of forms and data content and have lot of user interaction. Apps having a very complicated structure and rich layout. With Vaadin these user interactions and navigations can be simplified as you are not using HTML anymore.
      If your app has very few pages or very less user interaction or your app has lot of static pages, then Vaadin is not for you. Some other framework will be better to use.
 
 #### Documentation and help
-     Help material can be found at the [official website][1] of Vaadin. There is the [Book of Vaadin][2] which has all the material requred to develop simple Vaadin applications. Why I came up with this blog, you will understand when you read the book. Vaadin [Sampler][3] has almost all the Vaadin components with their basic usage. These components can sometimes help you decide between components and understand the use of components.
+Help material can be found at the [official website][1] of Vaadin. There is the [Book of Vaadin][2] which has all the material requred to develop simple Vaadin applications. Why I came up with this blog, you will understand when you read the book. Vaadin [Sampler][3] has almost all the Vaadin components with their basic usage. These components can sometimes help you decide between components and understand the use of components.
 
 [1]: http://www.vaadin.com
 [2]: http://www.vaadin.com/book
