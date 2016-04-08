@@ -6,11 +6,11 @@
    - Where not to use Vaadin
    - The book of Vaadin
    - Documentation
- - Setup Vaadin and Maven
+- Setup Vaadin and Maven
    - Setting up Maven
    - Creating your first project
    - Running it on server
- - Other servers
+- Other servers
    - Apache Tomcat
    - JBoss
    - Jetty
