@@ -1,0 +1,58 @@
+Start Date: 		Sunday 27 March, 2016
+Tentative End Date:	Sunday 
+Actual End Date:	
+
+* Learn Vaadin
+
+Learn vaadin is a youtube channel that teaches vaadin step by step and keeps you updated with the latest features. There are videos and playlists where you can choose what you want to learn
+
+
+** Lecture Videos:
+
+1)	a. Basic Setup
+		How to setup a basic vaadin project and run it on your local server
+		
+		Create a new project using maven
+		Compile the widget set
+		Show the default template, explain a bit
+		Configure the server
+		Run the project, show in browser
+
+	b. Getting Started
+		Create a Hello World website, what is the default template.
+
+		Explain further the default template.
+		Explain what are layout and components in brief
+		
+	c. Button, Labels and other such basic stuff common in all framework
+		Button, Label, TextField, DateField, Option Group, Slider
+
+		Label:
+			What is a label, how to add caption, set value and set other properties
+		Same goes with all other components.
+	d. Layouts
+		Vertical Layout, Horizontal Layout, CSS Layout, Grid Layout, Custom Layout
+5)	e. Navigation
+		What is navigator, how navigation works, create a simple application with navigation
+	f. First Application
+		Create an application using all the above components. I will think of an idea for demonstration
+	g. Menu Bars and Notification
+	h. Grids - 1 (Basic Construction, Data Source and Columns)
+	i. Grids - 2 (Converters and renderers and cell style generations)
+10)	j. Grids - 3 (Details and editing, selections, freezeing)
+	k. Grids - 4 (Filter, sorting, headers and footers)
+	l. Table, Tree Table, Trees and other data components
+	m. TabSheet, Accordian
+	n. Window and Popup
+15)	o. Keyboard Shortcut, Tooltip, etc
+	p. Field Groups and Form Layouts, Binding and related
+	q. Creating Custom Converters, Renderers for Grid and other component
+	r. Dynamic CSS, Javascrips injection
+	s. RPC
+20)	t. Browser integration, navigation and information
+	u. SCSS
+	v. Spring Integration
+	w. Maven Spring Vaadin, Event bus and etc
+	x. 
+25)	y.
+	z.
