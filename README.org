@@ -1,0 +1,40 @@
+
+* Learn Vaadin
+
+Learn vaadin is a youtube channel that teaches vaadin step by step and keeps you updated with the latest features. There are videos and playlists where you can choose what you want to learn
+
+
+** Lecture Videos:
+
+1) Introduction to Vaadin
+   Covers what is Vaadin, what is it good for and where it should not be used. Where to find help, etc.
+2) Getting Started
+   Creating your first Vaadin app, running it on server and understanding the basics of it.
+3) Button, Labels and other such basic stuff common in all framework
+4) Layouts
+   Vertical Layout, Horizontal Layout, CSS Layout, Grid Layout, Custom Layout
+5) Navigation
+   What is navigator, how navigation works, create a simple application with navigation
+6) *First Application*
+   Create an application using all the above components.
+   TODO: Idea needed for application.
+7) Menu Bars and Notification
+8) Grids - 1 (Basic Construction, Data Source and Columns)
+9) Grids - 2 (Converters and renderers and cell style generations)
+10) Grids - 3 (Details and editing, selections, freezeing)
+11) Grids - 4 (Filter, sorting, headers and footers)
+12) Table, Tree Table, Trees and other data components
+13) TabSheet, Accordian
+14) Window and Popup
+15) Keyboard Shortcut, Tooltip, etc
+16) Field Groups and Form Layouts, Binding and related
+17) Creating Custom Converters, Renderers for Grid and other component
+18) Dynamic CSS, Javascrips injection
+19) RPC
+20) Browser integration, navigation and information
+21) SCSS
+22) Spring Integration
+23) Maven Spring Vaadin, Event bus and etc
+24) Tweaking components and creating your own 
+25) 
+26) 
