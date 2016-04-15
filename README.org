@@ -1,4 +1,3 @@
-
 * Learn Vaadin
 
 Learn vaadin is a youtube channel that teaches vaadin step by step and keeps you updated with the latest features. There are videos and playlists where you can choose what you want to learn
